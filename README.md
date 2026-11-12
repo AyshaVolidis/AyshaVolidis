@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aysha Volidis  
+# 👋 Hi, I'm Aisha Volidis  
 - 💻 🚀 Full-Stack Developer with hands-on experience building real-world web applications.
 - 🏗️ Strong focus on clean architecture, performance, and user-centric design.
 - 🤝 Comfortable working in remote teams, collaborating via Git-based workflows.
